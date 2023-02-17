@@ -9,3 +9,16 @@ Turma 13 do Mais1Code
 4. Crie um arquivo e suba para este repositório (caso o Kaleb já tenha te adicionado aqui, caso não peça para ele)
 
 - Qualquer dúvida manda pra gente =)
+
+
+Muito bom o guia acima. 
+
+## Segue o passo a passo de como fazer um PR (Pull Request):
+
+- Faça o clone deste repositorio como apresentado acima.
+- Crie uma branch nova com `git checkout -b NOMEDASUABRANCH ` (ex: `git checkout -b branch-teste`)
+- Crie seu arquivo novo
+- Rode o `git status` para ver o que foi alterado e em seguida `git add NOMEDOSEUARQUIVO`
+- Rode `git commit -m "Escreva aqui uma mensagem qualquer"`
+- Rode o `git push`, provavelmente na primeira vez um erro sera apresentado, rode o comando sugerido pelo erro
+- Va na pag do repo mais1codegitexemplo e abra um Pull Request
